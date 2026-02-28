@@ -1,5 +1,12 @@
-# 🧠 Sentiment Analysis Web Application
-The Sentiment Analysis Web Application is a Flask-based web application designed to analyze the sentiment of text reviews. The application utilizes machine learning models to classify text as positive, neutral, or negative. The core features of the application include loading machine learning models, defining API endpoints for handling requests and responses, and integrating with a frontend interface for user interaction.
+# 🧠 Real-Time Online Review Rating & Tone Prediction AI Agent
+This project implements a Hybrid AI Agent that predicts product review ratings in real-time using a combination of:
+
+- 🧮 Machine Learning models (TF-IDF + Multiple Classifiers)
+- 🗣 NLP-based Tone Detection (VADER Sentiment Analysis)
+- 🗳 Ensemble Majority Voting
+- ⚖ Hybrid Decision Logic
+
+The system enhances prediction accuracy by combining statistical learning with linguistic tone analysis, making it more robust against mixed or ambiguous reviews.
 
 ## 🚀 Features
 - **Machine Learning Model Integration**: The application loads pre-trained machine learning models for sentiment analysis.
