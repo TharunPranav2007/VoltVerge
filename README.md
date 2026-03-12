@@ -78,8 +78,11 @@ For questions or concerns, please contact [Tharun Pranav T](mailto:your-tharunpr
 
 ## 💖 Thanks Message
 This project was made possible by the contributions of many individuals:
+
 [Sathya R V](mailto:your-24cs192@kpriet.ac.in)
+
 [Saran S](mailto:your-24cs190@kpriet.ac.in)
+
 [Sriram Prasath V S](mailto:your-24cs213@kpriet.ac.in)
 
 Thank you to everyone who has contributed to this project! 
